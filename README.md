@@ -7,7 +7,7 @@ SharpNess is a Nintendo Entertainment System Emulation built with .Net Framework
 
 ## Usage
 
-```run dotnet build``` to construct the executable
+```run dotnet build``` to construct the executable  
 ```<path to executable>/Sharpness.exe``` to run the emulator
 
 ### Executable flags
@@ -25,7 +25,7 @@ Add two projects:
 ## Test (TODO)
 Unit test for 3 * 10 multiplication
 - Assert that 
-  A register = $1E (30)
-  X register = $03 (3)
-  Y register = $00 (0)
-  $0000 address first three bytes = [0A, 03, 1E]
+  - A register = $1E (30)
+  - X register = $03 (3)
+  - Y register = $00 (0)
+  - $0000 address' first three bytes = [0A, 03, 1E]
