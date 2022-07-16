@@ -11,10 +11,10 @@ SharpNess is a Nintendo Entertainment System Emulation built with .Net Framework
 ```<path to executable>/Sharpness.exe``` to run the emulator
 
 ### Executable flags
--d : Debug Mode
--g <path to .snes> : start with running a game
--h : Show shelp
--f : Open in fullscreen mode
+-d : Debug Mode  
+-g <path to .snes> : start with running a game  
+-h : Show shelp  
+-f : Open in fullscreen mode  
 
 ## Debug (TODO)
 Add two projects:
